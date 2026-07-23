@@ -1,3 +1,9 @@
-# Cherry
+<div align="center">
+  <img src=https://github.com/hayam-ahamed/os/edit/main/cherry.svg width=200px />
+  <h1>Cherry OS</h1>
+</div>
 
-_Currently In Draft_
+___An experimental rpm based atomic operating system.___
+
+> [!Caution]
+> _This project is currently in the experimental phase and will be deprecated in favor of its successor._
