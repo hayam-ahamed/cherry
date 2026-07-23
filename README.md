@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=https://github.com/hayam-ahamed/os/edit/main/cherry.svg width=200px />
+  <img src=https://github.com/hayam-ahamed/os/blob/main/cherry.svg width=200px />
   <h1>Cherry OS</h1>
 </div>
 
